@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_html5.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\html5.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_game_over.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\game_over.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_play.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\play.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_c.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\c.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-pngs-14:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_codeigniter.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\codeigniter.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_wordpress.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\wordpress.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_csharp.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\csharp.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_python.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\python.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_mysql.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\mysql.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_nodejs.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\nodejs.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_cplusplus.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\cplusplus.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_restart.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\restart.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_exit.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_jquery.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\jquery.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_php.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\php.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_star.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable_nacos_logo.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable\\nacos_logo.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\layout_start_game.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\layout\\start_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\layout_game_over.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\layout\\game_over.xml"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_css3.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\css3.png"
+    },
+    {
+        "merged": "com.sandipbhattacharya.techquizapp-merged_res-19:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sandipbhattacharya.techquizapp-main-21:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_github.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_stopwatch.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\stopwatch.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_android.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_java.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\java.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\drawable-v24_bootstrap.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\drawable-v24\\bootstrap.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.sandipbhattacharya.techquizapp-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
